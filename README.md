@@ -1,4 +1,6 @@
-### Hi there 👋
+# Repositorio personal 😎🗃️
+### Este es mi repositorio de proyectos que desarrollo 
+
 
 <!--
 **faryd19/faryd19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
